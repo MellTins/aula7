@@ -1,0 +1,99 @@
+{
+  "Casas": [
+    {
+      "id": 1,
+      "tipo": "Linear",
+      "quartos": "1 quarto",
+      "suite": "Suite: Não",
+      "tamanho": "Tamanho: 70m²"
+    },
+    {
+      "id": 2,
+      "tipo": "Linear",
+      "quartos": "2 quartos",
+      "suite": "Suite: Sim",
+      "tamanho": "Tamanho: 73m²"
+    },
+    {
+      "id": 3,
+      "tipo": "Duplex",
+      "quartos": "3 quartos",
+      "suite": "Suite: Sim",
+      "tamanho": "Tamanho: 90m²"
+    },
+    {
+      "id": 4,
+      "tipo": "Triplex",
+      "quartos": "4 quartos",
+      "suite": "Suite: Sim",
+      "tamanho": "Tamanho: 95m²"
+    }
+  ],
+  "Apartamentos": [
+    {
+      "id": 1,
+      "tipo": "Térreo",
+      "quartos": "1 quarto",
+      "suite": "Suite: Não",
+      "tamanho": "Tamanho: 48m²"
+    },
+    {
+      "id": 2,
+      "tipo": "Térreo",
+      "quartos": "2 quartos",
+      "suite": "Suite: Canadense",
+      "tamanho": "Tamanho: 55m²"
+    },
+    {
+      "id": 3,
+      "tipo": "5º Andar",
+      "quartos": "1 quarto",
+      "suite": "Suite: Não",
+      "tamanho": "Tamanho: 48m²"
+    },
+    {
+      "id": 4,
+      "tipo": "5º Andar",
+      "quartos": "2 quartos",
+      "suite": "Suite: Canadense",
+      "tamanho": "Tamanho: 55m²"
+    },
+    {
+      "body": {
+        "title": "fff",
+        "body": "fff"
+      },
+      "id": 5
+    }
+  ],
+  "Lancamentos": [
+    {
+      "id": 1,
+      "regiao": "Região: Zona Norte",
+      "tamanho": "Tamanho: 43m²",
+      "bairro": "Tijuca",
+      "entrega": "Finalização: 2025"
+    },
+    {
+      "id": 2,
+      "regiao": "Região: Zona Norte",
+      "tamanho": "Tamanho: 47m²",
+      "bairro": "Grajaú",
+      "entrega": "Finalização: 2026"
+    },
+    {
+      "id": 3,
+      "regiao": "Região: Zona Oeste",
+      "tamanho": "Tamanho: 43m²",
+      "bairro": "Jacarepaguá",
+      "entrega": "Finalização: 2025"
+    },
+    {
+      "id": 4,
+      "regiao": "Região: Zona Oeste",
+      "tamanho": "Tamanho: 47m²",
+      "bairro": "Barra",
+      "entrega": "Finalização: 2026"
+    }
+  ]
+}
